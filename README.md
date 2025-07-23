@@ -1,6 +1,6 @@
 ### Hello! I’m Raghad.
 
-Engineering student. Programming enthusiast.
+uWaterloo Engineering graduate. Programming enthusiast.
 #### I like to code.
 I like to build applications using different languages. I’m fluent in Golang, Typescript, and Python. 
 
